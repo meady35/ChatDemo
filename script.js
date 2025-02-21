@@ -1,6 +1,6 @@
 // Set these for each customer demo...
 const CUSTOMER_NAME = "HD Supply Demo";
-const CUSTOMER_IMAGE = "images/ScreenshotHDS.png";
+const CUSTOMER_IMAGE = "images/HDSupplypage.png";
 
 
 // Set this stuff once and Fuggedaboutit...
