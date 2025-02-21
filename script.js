@@ -1,5 +1,5 @@
 // Set these for each customer demo...
-const CUSTOMER_NAME = "";
+const CUSTOMER_NAME = "HD Supply Demo";
 const CUSTOMER_IMAGE = "images/Screenshot 2025-02-21 at 10-38-37 HD Supply - MRO Products & Solutions.png";
 
 
