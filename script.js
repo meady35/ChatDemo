@@ -2,7 +2,7 @@
 //const CUSTOMER_NAME = "CBTS Briefing";
 //const CUSTOMER_IMAGE = "images/cbts.png?raw=true";
 const CUSTOMER_NAME = "HD Supply Demo";
-const CUSTOMER_IMAGE = "images/cbts.png?raw=true";
+const CUSTOMER_IMAGE = "images/HDSupplypage.png";
 
 
 // Set this stuff once and Fuggedaboutit...
