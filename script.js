@@ -1,5 +1,7 @@
 // Set these for each customer demo...
-const CUSTOMER_NAME = "CBTS Briefing";
+//const CUSTOMER_NAME = "CBTS Briefing";
+//const CUSTOMER_IMAGE = "images/cbts.png?raw=true";
+const CUSTOMER_NAME = "HD Supply Demo";
 const CUSTOMER_IMAGE = "images/cbts.png?raw=true";
 
 
